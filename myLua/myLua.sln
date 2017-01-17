@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myLua.CSharp.Plugins", "myLua.CSharp.Plugins.csproj", "{E1AE550E-48CC-B3DB-5299-59B253F9673A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myLua.CSharp", "myLua.CSharp.csproj", "{6FAAB40C-81A2-FBBA-4A83-1149CF87044D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myLua.CSharp.Editor", "myLua.CSharp.Editor.csproj", "{4AED32FC-1EFD-7953-7B2C-A24A870360B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE550E-48CC-B3DB-5299-59B253F9673A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AE550E-48CC-B3DB-5299-59B253F9673A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AE550E-48CC-B3DB-5299-59B253F9673A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AE550E-48CC-B3DB-5299-59B253F9673A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAAB40C-81A2-FBBA-4A83-1149CF87044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAAB40C-81A2-FBBA-4A83-1149CF87044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAAB40C-81A2-FBBA-4A83-1149CF87044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAAB40C-81A2-FBBA-4A83-1149CF87044D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AED32FC-1EFD-7953-7B2C-A24A870360B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AED32FC-1EFD-7953-7B2C-A24A870360B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AED32FC-1EFD-7953-7B2C-A24A870360B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AED32FC-1EFD-7953-7B2C-A24A870360B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

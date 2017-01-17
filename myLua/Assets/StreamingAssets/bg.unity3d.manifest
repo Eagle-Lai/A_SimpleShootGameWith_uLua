@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2874733067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2250379084e4a508b0bbd42d308af10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3db34e0f229ea31072262b61458107ba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8c545525a051d4489a36634f22b5855, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87e17bb2ac59d9a49b7bd44b63ac0453, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Game/Prefabs/Obstacle.prefab
+- Assets/_Game/Prefabs/bg.prefab
+- Assets/_Game/Prefabs/ObstacleSpawner.prefab
+- Assets/_Game/Prefabs/player.prefab
+- Assets/_Game/Prefabs/bullet.prefab
+Dependencies: []
